@@ -1,0 +1,26 @@
+body {
+    font-size: 16px;
+    text-align: center;
+    background-color: mediumturquoise;
+}
+h1 {
+    text-align: center;
+    color: #333;
+    font-size: 40px;
+}
+ol {
+    list-style-type: none;
+    color: yellow;
+    border-radius: 15px;
+    background-color: white;
+}
+ul {
+    list-style-type: none;
+    color: gray;
+}
+strong {
+    color: black;
+}
+h3 {
+    color: green;
+}
